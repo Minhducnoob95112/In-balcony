@@ -1,0 +1,2 @@
+Im MCkey >>b.txt
+echo Im MCkey
